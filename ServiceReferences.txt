@@ -1,0 +1,5 @@
+https://www.onvif.org/ver10/device/wsdl/devicemgmt.wsdl
+
+https://www.onvif.org/ver20/media/wsdl/media.wsdl
+
+www.ispyconnect.com/camera#
